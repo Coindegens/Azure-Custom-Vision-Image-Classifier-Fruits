@@ -14,7 +14,7 @@ A Python script that demonstrates image classification using Azure Custom Vision
 
 ## Setup
 
-1. Clone this repository
+1. Clone this repository:https://github.com/MicrosoftLearning/mslearn-ai-vision
 2. Create a `.env` file in the root directory with:
    ```
    TrainingEndpoint=<your_endpoint>
